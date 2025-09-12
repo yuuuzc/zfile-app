@@ -1,0 +1,1 @@
+export interface FilesReq { storageKey: string; path: string; password: string; orderBy: string; orderDirection: string }
